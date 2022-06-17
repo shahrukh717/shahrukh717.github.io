@@ -4,12 +4,19 @@ button{
 div{
    
     background-color: lightpink;
+    display: flex;
+    flex-direction: column;
+    
    
 }
 input[type=text]  {
-   width: 45%%;
+   width: 35%;
    height: 25px;
    border-radius: 5px;  
+   display: flex;
+   margin: auto;
+   flex-direction: row;
+   
 
 }
 p {
@@ -27,12 +34,19 @@ button {
 }
 input[type=email] {
    border-radius: 5px;
-   width: 50%;
+   width: 35%;
    height: 25px;
-   margin: 8px opx;
+   margin: auto;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   
 }
 textarea[type=address] {
    border-radius: 5px ;
+   display: flex;
+   justify-content: center;
+   margin: auto;
 }
 
 
