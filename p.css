@@ -1,0 +1,38 @@
+button{
+   color: violet;
+}
+div{
+   
+    background-color: lightpink;
+   
+}
+input[type=text]  {
+   width: 45%%;
+   height: 25px;
+   border-radius: 5px;  
+
+}
+p {
+ text-align: center;
+
+}
+h1 {
+   text-align: center;
+}
+button {
+  text-align: center;
+  margin: auto;
+  display: flex;
+  
+}
+input[type=email] {
+   border-radius: 5px;
+   width: 50%;
+   height: 25px;
+   margin: 8px opx;
+}
+textarea[type=address] {
+   border-radius: 5px ;
+}
+
+
